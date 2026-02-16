@@ -18,6 +18,7 @@
 ### **Before Exams** <br />
 
 1- You should Learn Functions Loops Condition Arrays  Strings before exam 00 <br />
+
 2- You should Learn argc & argv & malloc and free before exam01/exam02 <br />
 3- You Should Learn Makefile Library Header Pointers-Functions before final exam <br />
 **You need 25 points to validate any exam** <br />
